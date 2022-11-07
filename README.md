@@ -20,4 +20,4 @@ O arquivo .env.example contém as variáveis necessárias para usar a aplicaçã
 - `npm start`
 
 ## Para testar
-O projeto foi hospedado na Vercel. Para testes: [Clique aqui](https://react-d5react-finance.vercel.app/).
+O projeto foi hospedado na Vercel. Para testes: [Clique aqui](https://react-d5react-galley.vercel.app/).
